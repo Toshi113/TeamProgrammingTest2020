@@ -9,8 +9,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate (Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // Cyberhac joined.
         // host joined.
+        // Cyberhac joined.
         setContentView(R.layout.activity_main);
     }
 }
