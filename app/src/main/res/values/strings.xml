@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TeamProgrammingTest2020</string>
+
+    <string name="main_activity_button_hiroyuki_title">李 博之</string>
 </resources>
