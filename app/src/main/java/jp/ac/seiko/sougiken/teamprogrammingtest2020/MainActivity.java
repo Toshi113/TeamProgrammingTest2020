@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         // host joined.
         // Cyberhac joined.
+        // JellyFish joined.
         setContentView(R.layout.activity_main);
     }
 }
